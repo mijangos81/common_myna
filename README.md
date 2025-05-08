@@ -1,66 +1,100 @@
 # Desert Isolation and Urban Connectivity: Genomic Footprint of Myna Invasion in Oman
 
-This repository contains code and documentation for analyzing the genomic data of common myna (*Acridotheres tristis*) populations in Oman, with a focus on desert isolation and urban connectivity.
+> **Authors:** Qais Al Rawahi¹, Abdullahi Aliyu¹², Mazin Al‑Abidi³, Kareem Khalil⁵, Masooma Al‑Lawati¹, Tehani A Al‑Jidailiy¹, Basel S Al‑Maskari, Ahmed M Al‑Shakili³, Jihad A Al‑Toubi¹, Maisaa S Al‑Saadi¹, Adamu Abdul Abubakar¹, Jose L Mijangos⁴⁵
 
-## Project Structure
+¹ Department of Veterinary Medicine, College of Applied and Health Sciences, A’Sharqiyah University, Ibra, Sultanate of Oman
+² Department of Veterinary Pathology, Usmanu Danfodiyo University, Sokoto State, Nigeria
+³ Directorate General of Natural Conservation, Environment Authority, Ibra, Sultanate of Oman
+⁴ Institute for Applied Ecology, University of Canberra, Australia
+⁵ Diversity Arrays Technology Pty Ltd, University of Canberra, Australian Capital Territory, Australia
 
-* **myna\_genomic\_analysis.R**: Main R script performing data import, quality control, diversity summaries, population structure (fastStructure), PCoA, spatial autocorrelation, and Ne estimation.
-* **Report\_DImy24-9735\_SNP\_mapping\_1.csv**: Raw SNP genotype data in DArT format.
-* **metadata\_myna.csv**: Sample metadata file containing individual IDs, sampling locations, and population labels.
-* **GCA\_037013685.1\_AcTris\_vAus2.0\_genomic.fna**: Reference genome file used for BLAST mapping.
-* **res\_fast\_myna.rds**: Saved results object from fastStructure analysis.
+---
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Repository Structure](#repository-structure)
+3. [Requirements](#requirements)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Outputs](#outputs)
+7. [Citation](#citation)
+8. [Contributing](#contributing)
+9. [License](#license)
+
+---
+
+## Project Overview
+
+This repository contains R code and supporting files for analyzing SNP data from invasive common myna (*Acridotheres tristis*) populations in Oman. The study explores genomic signatures of isolation in desert landscapes and connectivity within urban environments.
+
+## Repository Structure
+
+```
+├── myna_genomic_analysis.R    # Main analysis script
+├── Report_DImy24-9735_SNP_mapping_1.csv    # Raw DArT SNP data
+├── metadata_myna.csv          # Sample metadata (IDs, locations, populations)
+├── GCA_037013685.1_AcTris_vAus2.0_genomic.fna  # Reference genome for BLAST
+├── res_fast_myna.rds          # fastStructure results (saved RDS)
+├── README.md                  # Project overview and instructions
+└── LICENSE                    # License information
+```
 
 ## Requirements
 
-* R (≥ 4.0)
-* [dartRverse](https://cran.r-project.org/package=dartRverse) package and its dependencies
+* **R** version ≥ 4.0
+* **dartRverse** R package (and dependencies)
 
 ## Installation
 
-```bash
-# In R:
-install.packages("devtools")
-devtools::install_github("green-striped-gecko/dartRverse")  # or CRAN
-```
+1. Install dependencies in R:
+
+   ```r
+   install.packages("devtools")
+   devtools::install_github("green-striped-gecko/dartRverse")  # or via CRAN
+   ```
+2. Clone this repository:
+
+   ```bash
+   git clone https://github.com/username/myna-genomics-oman.git
+   cd myna-genomics-oman
+   ```
 
 ## Usage
 
-1. Clone this repository:
+1. Launch R or RStudio.
+2. Source the analysis script:
 
-   ```bash
+   ```r
+   source("myna_genomic_analysis.R")
    ```
+3. The script performs the following steps:
 
-git clone [https://github.com/username/myna-genomics-oman.git](https://github.com/username/myna-genomics-oman.git) cd myna-genomics-oman
+   * Data import and annotation
+   * Sequential quality-control filtering
+   * Diversity and F‑statistics summaries
+   * Genetic relatedness matrix (GRM)
+   * Population structure analysis (fastStructure)
+   * Principal Coordinates Analysis (PCoA)
+   * Spatial autocorrelation
+   * Effective population size estimation (LD‑Ne)
 
-```
-2. Open and run the `myna_genomic_analysis.R` script in R or RStudio. It will:
-   - Load and annotate the SNP dataset
-   - Perform sequential quality-control filtering
-   - Generate diversity and F-statistics reports
-   - Compute genetic relatedness matrix (GRM)
-   - Run population structure analyses (fastStructure)
-   - Conduct Principal Coordinates Analysis (PCoA)
-   - Evaluate spatial autocorrelation of allele frequencies
-   - Estimate effective population size (Ne)
+## Outputs
 
-## Output
-
-- Figures and text outputs will be generated in your R session or saved objects (e.g., `res_fast_myna.rds`).
-- Modify plotting parameters or K-range in the main script as needed for publication figures.
+* Figures and tables will be generated in your R session.
+* `res_fast_myna.rds` contains the fastStructure result object.
+* Customize plotting parameters or analysis ranges directly in `myna_genomic_analysis.R` for publication-ready figures.
 
 ## Citation
 
-Please cite the following article when using these data or code:
+If you use this code or data, please cite:
 
-> **Desert Isolation and Urban Connectivity: The Genomic Footprint of Myna Invasion in Oman**  
-> Qais Al Rawahi et al. (2025)
+> Al Rawahi, Q., Aliyu, A., Al‑Abidi, M., Khalil, K., Al‑Lawatiy, M., Al‑Jidailiy, T. A., ... & Mijangos, J. L. (2025). Desert Isolation and Urban Connectivity: The Genomic Footprint of Myna Invasion in Oman.
 
 ## Contributing
 
-Pull requests and issues are welcome. For major changes, please open an issue first to discuss proposed modifications.
+Contributions are welcome! Please open an issue or submit a pull request for bug fixes, feature requests, or enhancements.
 
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
-```
