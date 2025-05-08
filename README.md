@@ -1,6 +1,6 @@
 # Desert Isolation and Urban Connectivity: Genomic Footprint of Myna Invasion in Oman
 
-> **Authors:** Qais Al Rawahi¹, Abdullahi Aliyu¹², Mazin Al‑Abidi³, Kareem Khalil⁵, Masooma Al‑Lawati¹, Tehani A Al‑Jidailiy¹, Basel S Al‑Maskari, Ahmed M Al‑Shakili³, Jihad A Al‑Toubi¹, Maisaa S Al‑Saadi¹, Adamu Abdul Abubakar¹, Jose L Mijangos⁴⁵
+> **Authors:** Qais Al Rawahi¹, Abdullahi Aliyu¹², Mazin Al-Abidi³, Kareem Khalil⁵, Masooma Al-Lawati¹, Tehani A Al-Jidailiy¹, Basel S Al-Maskari, Ahmed M Al-Shakili³, Jihad A Al-Toubi¹, Maisaa S Al-Saadi¹, Adamu Abdul Abubakar¹, Jose L Mijangos⁴⁵
 
 ¹ Department of Veterinary Medicine, College of Applied and Health Sciences, A’Sharqiyah University, Ibra, Sultanate of Oman
 ² Department of Veterinary Pathology, Usmanu Danfodiyo University, Sokoto State, Nigeria
@@ -37,7 +37,8 @@ This repository contains R code and supporting files for analyzing SNP data from
 ├── GCA_037013685.1_AcTris_vAus2.0_genomic.fna  # Reference genome for BLAST
 ├── res_fast_myna.rds          # fastStructure results (saved RDS)
 ├── README.md                  # Project overview and instructions
-└── LICENSE                    # License information
+├── license.txt                # MIT License text
+└── LICENSE                    # MIT License file (renamed copy)
 ```
 
 ## Requirements
@@ -72,12 +73,12 @@ This repository contains R code and supporting files for analyzing SNP data from
 
    * Data import and annotation
    * Sequential quality-control filtering
-   * Diversity and F‑statistics summaries
+   * Diversity and F-statistics summaries
    * Genetic relatedness matrix (GRM)
    * Population structure analysis (fastStructure)
    * Principal Coordinates Analysis (PCoA)
    * Spatial autocorrelation
-   * Effective population size estimation (LD‑Ne)
+   * Effective population size estimation (LD-Ne)
 
 ## Outputs
 
@@ -89,7 +90,7 @@ This repository contains R code and supporting files for analyzing SNP data from
 
 If you use this code or data, please cite:
 
-> Al Rawahi, Q., Aliyu, A., Al‑Abidi, M., Khalil, K., Al‑Lawatiy, M., Al‑Jidailiy, T. A., ... & Mijangos, J. L. (2025). Desert Isolation and Urban Connectivity: The Genomic Footprint of Myna Invasion in Oman.
+> Al Rawahi, Q., Aliyu, A., Al-Abidi, M., Khalil, K., Al-Lawatiy, M., Al-Jidailiy, T. A., ... & Mijangos, J. L. (2025). Desert Isolation and Urban Connectivity: The Genomic Footprint of Myna Invasion in Oman.
 
 ## Contributing
 
@@ -97,4 +98,4 @@ Contributions are welcome! Please open an issue or submit a pull request for bug
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See [license.txt](license.txt) for details.
