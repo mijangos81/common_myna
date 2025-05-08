@@ -1,0 +1,311 @@
+id,pop,lat,lon,id2,Date,city,Elevation,plus_code,Capture_method,sex,Weiht_rams,body_width,body_circumference,Wing,Tarsus,wingspan,Beak_length,length_body,Colour_Secondary_feathers,Colour_Beak,Colour_Eye_circle,Colour_Back,Colour_Chest
+sshn001,South Sharqiyah,21.5704375,59.5316875,29,12/16/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,96.04,3.4,11.5,19.2,3.9,41.5,2.1,25.5,black,yellow,yellow,brown_grey,brown_grey
+shhn010,South Sharqiyah,21.5704375,59.5316875,38,12/16/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,106.05,3.9,13,20,4,43,2.1,26,black,yellow,yellow,brown_grey,brown_grey
+shhn11,South Sharqiyah,21.5704375,59.5316875,56,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,107.71,4,12.3,19,4,41,2,24.5,black,yellow,yellow,brown_grey,brown_grey
+Sshn12,South Sharqiyah,21.5704375,59.5316875,54,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,110,4,12,20,3.8,39,2,24,black,yellow,yellow,brown_grey,brown_grey
+sshn002,South Sharqiyah,21.5704375,59.5316875,30,12/16/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,118.52,4,13,20.2,4,43.5,2,29.1,black,yellow,yellow,brown_grey,brown_grey
+sshn003,South Sharqiyah,21.5704375,59.5316875,31,12/16/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,111.5,4,13.2,20.6,4,42,2,26,black,yellow,yellow,brown_grey,brown_grey
+sshn004,South Sharqiyah,21.5704375,59.5316875,32,12/16/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,127.74,3.8,12.6,21,4,44,2.1,26,black,yellow,yellow,brown_grey,brown_grey
+sshn005,South Sharqiyah,21.5704375,59.5316875,33,12/16/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,110.81,4,12.5,20.2,4,43,2.1,25.5,black,yellow,yellow,brown_grey,brown_grey
+sshn06,South Sharqiyah,21.5704375,59.5316875,34,12/16/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,128.46,4,12.5,20.6,4,44,2.2,27,black,yellow,yellow,brown_grey,brown_grey
+sshn007,South Sharqiyah,21.5704375,59.5316875,35,12/16/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,112.96,4,12.5,19,3.8,41.6,2,25.3,black,yellow,yellow,brown_grey,brown_grey
+sshn008,South Sharqiyah,21.5704375,59.5316875,36,12/16/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,119.62,4,13,20,4,44,2.2,26,black,yellow,yellow,brown_grey,brown_grey
+sshn009,South Sharqiyah,21.5704375,59.5316875,37,12/16/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,100.27,3.5,12,19.2,4,42,2,26,black,yellow,yellow,brown_grey,brown_grey
+sshn13,South Sharqiyah,21.5704375,59.5316875,57,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,104.7,3.8,11,20,3.8,41,2.2,25,black,yellow,yellow,brown_grey,brown_grey
+Sshn23,South Sharqiyah,21.5704375,59.5316875,47,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,134.18,4,13,20,4,43.5,2,27,black,yellow,yellow,brown_grey,brown_grey
+sshn24,South Sharqiyah,21.5704375,59.5316875,60,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,131.2,4,13,21,4,43,-,26,black,yellow,yellow,brown_grey,brown_grey
+sshn25,South Sharqiyah,21.5704375,59.5316875,61,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,110.27,4,13,20,3.8,40,2.1,26,black,yellow,yellow,brown_grey,brown_grey
+Sshn14,South Sharqiyah,21.5704375,59.5316875,48,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,123.5,4,12.5,20,3.8,40,2,25,black,yellow,yellow,brown_grey,brown_grey
+Sshn15,South Sharqiyah,21.5704375,59.5316875,52,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,123.2,4,12.2,20,4,42,2,26.5,black,yellow,yellow,brown_grey,brown_grey
+sshn16,South Sharqiyah,21.5704375,59.5316875,58,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,111.08,4,12.5,21,4,43,2.2,26,black,yellow,yellow,brown_grey,brown_grey
+sshn17,South Sharqiyah,21.5704375,59.5316875,59,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,97.3,4,11.3,19,3.8,40.5,2.2,25,black,yellow,yellow,brown_grey,brown_grey
+Sshn19,South Sharqiyah,21.5704375,59.5316875,55,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,132,4,13,22.5,4,41,2.1,27,black,yellow,yellow,brown_grey,brown_grey
+Sshn20,South Sharqiyah,21.5704375,59.5316875,41,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,128.9,4,14,20,3.8,41.5,2.2,24,black,yellow,yellow,brown_grey,brown_grey
+Sshn21,South Sharqiyah,21.5704375,59.5316875,49,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,96.4,3.8,10,19.5,3.8,39,2.1,25,black,yellow,yellow,brown_grey,brown_grey
+Sshn22,South Sharqiyah,21.5704375,59.5316875,43,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,94.52,3.6,11.5,19.5,3.8,40,2,26,black,yellow,yellow,brown_grey,brown_grey
+sshn26,South Sharqiyah,21.5704375,59.5316875,62,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,105.51,4,12.2,21,4,44,2.3,26,black,yellow,yellow,brown_grey,brown_grey
+sshn36,South Sharqiyah,21.5704375,59.5316875,67,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,108.26,4,11.5,20,4,40,2.1,25,black,yellow,yellow,brown_grey,brown_grey
+sshn37,South Sharqiyah,21.5704375,59.5316875,68,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,134.2,4,13,21.5,4,43,2.3,27.5,black,yellow,yellow,brown_grey,brown_grey
+sshn38,South Sharqiyah,21.5704375,59.5316875,69,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,105.08,4,12,21.5,4,41.5,2.1,25.7,black,yellow,yellow,brown_grey,brown_grey
+sshn27,South Sharqiyah,21.5704375,59.5316875,63,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,109.31,3.8,12,21,4,42,2.1,25.5,black,yellow,yellow,brown_grey,brown_grey
+sshn028,South Sharqiyah,21.5704375,59.5316875,39,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,134.66,3.8,13.3,20,4,43.5,2.2,27,black,yellow,yellow,brown_grey,brown_grey
+Sshn30,South Sharqiyah,21.5704375,59.5316875,46,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,122.6,4,13,20,3.9,43.8,2,26,black,yellow,yellow,brown_grey,brown_grey
+sshn31,South Sharqiyah,21.5704375,59.5316875,64,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,109.82,4,12.2,19.5,4,40.5,2.2,24.5,black,yellow,yellow,brown_grey,brown_grey
+Sshn32,South Sharqiyah,21.5704375,59.5316875,51,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,94.05,4,11.5,18.4,4,38.5,2,25,black,yellow,yellow,brown_grey,brown_grey
+sshn34,South Sharqiyah,21.5704375,59.5316875,66,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,124.72,4,13,22,4,43.5,2.1,26.5,black,yellow,yellow,brown_grey,brown_grey
+Sshn35,South Sharqiyah,21.5704375,59.5316875,45,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,110.45,4,13.8,19.5,3.8,40,2,24,black,yellow,yellow,brown_grey,brown_grey
+sshn39,South Sharqiyah,21.5704375,59.5316875,70,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,105.15,4,12,20.5,4,41,2,25,black,yellow,yellow,brown_grey,brown_grey
+Sshn49,South Sharqiyah,21.5704375,59.5316875,50,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,115.5,4,13,21,4,43,2,26.5,black,yellow,yellow,brown_grey,brown_grey
+sshn50,South Sharqiyah,21.5704375,59.5316875,77,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,108.19,4,12.2,20.5,4,42,2.1,25.2,black,yellow,yellow,brown_grey,brown_grey
+sshn51,South Sharqiyah,21.5704375,59.5316875,78,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,121.26,4,12.5,20,4,41,2,25.5,black,yellow,yellow,brown_grey,brown_grey
+Sshn40,South Sharqiyah,21.5704375,59.5316875,53,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,136.2,4,13,20.5,4,42,2.1,26,black,yellow,yellow,brown_grey,brown_grey
+Sshn41,South Sharqiyah,21.5704375,59.5316875,44,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,113.74,4,12,20.5,4.1,42.5,2.2,26,black,yellow,yellow,brown_grey,brown_grey
+sshn42,South Sharqiyah,21.5704375,59.5316875,71,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,127.64,4,13,22,4,43.5,2,27,black,yellow,yellow,brown_grey,brown_grey
+sshn43,South Sharqiyah,21.5704375,59.5316875,72,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,97.92,4,11.5,20.4,4,41.5,2.1,25.3,black,yellow,yellow,brown_grey,brown_grey
+sshn44,South Sharqiyah,21.5704375,59.5316875,73,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,97.89,4,11.2,20,3.5,40,2,24,black,orange,yellow,brown_grey,brown_grey
+sshn45,South Sharqiyah,21.5704375,59.5316875,74,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,111.88,4,12,21.5,4,43,2,27,black,orange,yellow,brown_grey,brown_grey
+sshn47,South Sharqiyah,21.5704375,59.5316875,75,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Female,103.96,4,12,20.5,4,41.5,2,25.5,black,yellow,yellow,brown_grey,brown_grey
+sshn48,South Sharqiyah,21.5704375,59.5316875,76,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,131.61,4,12,22.2,4,45,2.3,27.2,black,yellow,yellow,brown_grey,brown_grey
+Sshn52,South Sharqiyah,21.5704375,59.5316875,42,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,119.51,4,14,19.2,3.9,39.5,2.2,25,black,yellow,yellow,brown_grey,brown_grey
+MRBM008,Dhofar,17.9925625,54.6916875,290,2/20/24,Mirbat,20,7H9PXMVR+2M,Shoot,Male,119.7,4,12,22,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
+TAQM001,Dhofar,18.0323125,54.3633125,291,2/20/24,Taqah,40,7HCP29J7+W8G,Shoot,Male,123.9,4,12,22,4,45,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+TAQM002,Dhofar,18.0323125,54.3633125,292,2/20/24,Taqah,40,7HCP29J7+W8G,Shoot,Female,149,4,12,21,4,44,2.2,26.5,white,yellow,yellow,brown_grey,brown_grey
+sshn53,South Sharqiyah,21.5704375,59.5316875,79,12/19/23,Sur,9,7HHXHGCJ+5MF,Shoot,Male,119.33,4,13,21.5,4,41.5,2.2,26,black,yellow,yellow,brown_grey,brown_grey
+MRBM001,Dhofar,17.9925625,54.6916875,283,2/20/24,Mirbat,20,7H9PXMVR+2M,Shoot,Female,110.9,4,11,21,4,42,2,26,white,yellow,yellow,brown_grey,brown_grey
+MRBM002,Dhofar,17.9925625,54.6916875,284,2/20/24,Mirbat,20,7H9PXMVR+2M,Shoot,Male,117.12,4,11.5,22,4,44,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+MRBM003,Dhofar,17.9925625,54.6916875,285,2/20/24,Mirbat,20,7H9PXMVR+2M,Shoot,Male,125.62,4,12.5,23,4,44.5,2.1,26.5,white,yellow,yellow,brown_grey,brown_grey
+MRBM004,Dhofar,17.9925625,54.6916875,286,2/20/24,Mirbat,20,7H9PXMVR+2M,Shoot,Female,104.44,4,11,21.5,4,43,2.2,24.5,white,yellow,yellow,brown_grey,brown_grey
+MRBM005,Dhofar,17.9925625,54.6916875,287,2/20/24,Mirbat,20,7H9PXMVR+2M,Shoot,Male,113.99,4,12,21,4,44.5,2,25,white,yellow,yellow,brown_grey,brown_grey
+MRBM007,Dhofar,17.9925625,54.6916875,289,2/20/24,Mirbat,20,7H9PXMVR+2M,Shoot,Male,99.08,4,11,21,4,43,1.8,23.5,white,yellow,yellow,brown_grey,brown_grey
+TAQM012,Dhofar,18.0323125,54.3633125,302,2/20/24,Taqah,40,7HCP29J7+W8G,Shoot,Male,108.3,4,11.5,21,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
+TAQM012/13,Dhofar,18.0323125,54.3633125,303,2/20/24,Taqah,40,7HCP29J7+W8G,Shoot,Male,117.16,4,11,22,4,44,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+SAHM001,North Batinah,24.1661875,56.8946875,10,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Female,108.45,3.5,13,20.5,4,42,2,24,black,yellow,yellow,brown_grey,brown_grey
+TAQM004,Dhofar,18.0323125,54.3633125,294,2/20/24,Taqah,40,7HCP29J7+W8G,Shoot,Female,117.25,4,11.5,21,4,44,2.1,25,white,yellow,yellow,brown_grey,brown_grey
+TAQM005,Dhofar,18.0323125,54.3633125,295,2/20/24,Taqah,40,7HCP29J7+W8G,Shoot,Female,112,4,12,22,4,43.5,2,25,white,yellow,yellow,brown_grey,brown_grey
+TAQM006,Dhofar,18.0323125,54.3633125,296,2/20/24,Taqah,40,7HCP29J7+W8G,Shoot,Male,115.44,4,12,22,4,44,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+TAQM007,Dhofar,18.0323125,54.3633125,297,2/20/24,Taqah,40,7HCP29J7+W8G,Shoot,Male,116.2,4,13,21.5,4,45,2,26,white,yellow,yellow,brown_grey,brown_grey
+TAQM008,Dhofar,18.0323125,54.3633125,298,2/20/24,Taqah,40,7HCP29J7+W8G,Shoot,Male,112.17,4,12.5,21,4,44.5,2,25,white,yellow,yellow,brown_grey,brown_grey
+TAQM009,Dhofar,18.0323125,54.3633125,299,2/20/24,Taqah,40,7HCP29J7+W8G,Shoot,Female,113,4,12,21.5,4,43.5,2,26,blackwhite,yellow,yellow,brown_grey,brown_grey
+TAQM010,Dhofar,18.0323125,54.3633125,300,2/20/24,Taqah,40,7HCP29J7+W8G,Shoot,Female,115.87,4,11.5,22,4,45,2,25,white,yellow,yellow,brown_grey,brown_grey
+TAQM011,Dhofar,18.0323125,54.3633125,301,2/20/24,Taqah,40,7HCP29J7+W8G,Shoot,Male,123.35,4,12,22,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
+SAHM002,North Batinah,24.1661875,56.8946875,11,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Male,112.81,3.3,13,20.2,4,38.5,2.1,25.8,black,yellow,yellow,brown_grey,brown_grey
+SAHM011,North Batinah,24.1661875,56.8946875,20,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Male,104.37,3.7,11.7,18.5,3.8,39,2.2,24,black,yellow,yellow,brown_grey,brown_grey
+SAHM012,North Batinah,24.1661875,56.8946875,21,12/6/23,Saham,16,7HPR5V8V+FVF,Shoot,Female,115.4,4,13.2,19.5,4.2,42,2.1,28.5,black,yellow,yellow,brown_grey,brown_grey
+SAHM003,North Batinah,24.1661875,56.8946875,12,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Female,98.86,3,12,18,3.8,35.2,2.1,27,black,yellow,yellow,brown_grey,brown_grey
+SAHM004,North Batinah,24.1661875,56.8946875,13,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Female,116.23,4,13.5,18.1,3.8,42.2,2,27.8,black,yellow,yellow,brown_grey,brown_grey
+SAHM005,North Batinah,24.1661875,56.8946875,14,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Female,102.46,4,13.6,18.5,3.8,40,2.2,26.5,black,yellow,yellow,brown_grey,brown_grey
+SAHM006,North Batinah,24.1661875,56.8946875,15,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Unknown,114.77,4,13.2,20,3.5,38,2.3,25.5,black,yellow,yellow,brown_grey,brown_grey
+SAHM008,North Batinah,24.1661875,56.8946875,17,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Female,110.08,4,13,18.5,4,41.2,2.1,26.8,black,yellow,yellow,brown_grey,brown_grey
+SAHM009,North Batinah,24.1661875,56.8946875,18,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Female,104.17,3.9,12,18.1,4,39,2,24,black,yellow,yellow,brown_grey,brown_grey
+SAHM010,North Batinah,24.1661875,56.8946875,19,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Male,119.17,4.1,12.1,20,4.5,40.5,2.3,28,black,yellow,yellow,brown_grey,brown_grey
+SAHM014,North Batinah,24.1661875,56.8946875,23,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Male,102.18,3.8,11.9,18.3,3.9,40,2.1,27,black,yellow,yellow,brown_grey,brown_grey
+mctm015,Muscat,23.2800625,57.9174375,188,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Female,96.24,4,11,21,4,42.5,2,24,white,yellow,yellow,brown_grey,brown_grey
+mctm016,Muscat,23.2800625,57.9174375,189,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Female,102.2,4,11,19,4,41.5,2,25,white,yellow,yellow,brown_grey,brown_grey
+SAHM015,North Batinah,24.1661875,56.8946875,24,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Female,104.34,3.4,12,19,3.8,43,2.2,27,black,yellow,yellow,brown_grey,brown_grey
+SAHM016,North Batinah,24.1661875,56.8946875,25,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Female,126.07,4,13,20,4.2,43,2,27,black,yellow,yellow,brown_grey,brown_grey
+SAHM017,North Batinah,24.1661875,56.8946875,26,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Male,118.87,4,12.7,20,4.1,43,2,25.6,black,yellow,yellow,brown_grey,brown_grey
+SAHM018,North Batinah,24.1661875,56.8946875,27,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Male,88.55,3.5,11,17.2,3.8,37,2,24.8,black,yellow,yellow,brown_grey,brown_grey
+mctm11,Muscat,23.2800625,57.9174375,183,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,121.25,4,12,21,4,44,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+mctm012,Muscat,23.2800625,57.9174375,184,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Female,107.28,4,11,21,4,45,2.1,26.5,blackwhite,yellow,yellow,brown_grey,brown_grey
+mctm014,Muscat,23.2800625,57.9174375,187,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,103.5,4,11,20,3.5,43,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm018,Muscat,23.2800625,57.9174375,191,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,113.86,4,12,21,4,43,2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm027,Muscat,23.2800625,57.9174375,200,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,109.12,4,12,20,4,43,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm028,Muscat,23.2800625,57.9174375,201,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,113.04,4,11,21,4,44,1.9,25,white,yellow,yellow,brown_grey,brown_grey
+mctm029,Muscat,23.2800625,57.9174375,202,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,109.58,4,12,20.5,4,43.5,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm019,Muscat,23.2800625,57.9174375,192,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,117.34,4,11,21.5,4,43.5,2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm020,Muscat,23.2800625,57.9174375,193,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Female,90.29,4,11,19,3.5,40,2.1,24.5,white,yellow,yellow,brown_grey,brown_grey
+mctm021,Muscat,23.2800625,57.9174375,194,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Female,100.71,4,11,20,4,42,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+mctm022,Muscat,23.2800625,57.9174375,195,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,103.33,4,12,20,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm023,Muscat,23.2800625,57.9174375,196,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,117.48,4,12,20,4,43,2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm024,Muscat,23.2800625,57.9174375,197,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,107.63,4,11,22,4,44,2,26.5,white,yellow,yellow,brown_grey,brown_grey
+mctm025,Muscat,23.2800625,57.9174375,198,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Female,97.79,4,11,19.5,4,42,2,24,white,yellow,yellow,brown_grey,brown_grey
+mctm026,Muscat,23.2800625,57.9174375,199,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,116.26,4,12,21,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm030,Muscat,23.2800625,57.9174375,203,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,123.33,4,12,22,4,45,2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm039,Muscat,23.2800625,57.9174375,212,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Female,106.6,4,12,19,4,41,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm040,Muscat,23.2800625,57.9174375,213,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,117.59,4,12,20,4,43,2.1,25,white,yellow,yellow,brown_grey,brown_grey
+mctm041,Muscat,23.2800625,57.9174375,214,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,120.65,4,11,20,4,44,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+mctm031,Muscat,23.2800625,57.9174375,204,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,123.3,4,12,20,4,42,2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm032,Muscat,23.2800625,57.9174375,205,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,110.56,4,11,22,4,45,2,27,white,yellow,yellow,brown_grey,brown_grey
+mctm033,Muscat,23.2800625,57.9174375,206,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,118.66,4,12,21,4,44,2.2,27,white,yellow,yellow,brown_grey,brown_grey
+mctm034,Muscat,23.2800625,57.9174375,207,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Female,97.7,4,11,20,4,44,2,25.5,white,yellow,yellow,brown_grey,brown_grey
+mctm035,Muscat,23.2800625,57.9174375,208,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Female,113.96,4,11.5,20,4,43,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+mctm036,Muscat,23.2800625,57.9174375,209,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,130.22,4,12,22,4,44.5,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+mctm037,Muscat,23.2800625,57.9174375,210,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Female,122.2,4,11,20,4,41,2.2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm038,Muscat,23.2800625,57.9174375,211,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Female,120,4,12.5,21,4,43,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+mctm042,Muscat,23.2800625,57.9174375,215,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Female,114.55,4,12,21,4,44.5,1.9,2.4,white,yellow,yellow,brown_grey,brown_grey
+mctm051,Muscat,23.5724375,58.6121875,224,1/9/24,Muscat,23,7HMWHJC6+XVF,Shoot,Female,104.74,4,11,20,4,42.5,2.1,25,white,yellow,yellow,brown_grey,brown_grey
+mctm052,Muscat,23.5724375,58.6121875,225,1/9/24,Muscat,23,7HMWHJC6+XVF,Shoot,Male,104.1,4,11,19.5,4,41,2,25.5,white,yellow,yellow,brown_grey,brown_grey
+mctm053,Muscat,23.5591875,58.4279375,226,1/9/24,Amerat,440,7HMWHC5H+M5F,Shoot,Male,128.51,4,12.5,22.2,4,46,2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm043,Muscat,23.2800625,57.9174375,216,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,134,4,12,21,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm044,Muscat,23.2800625,57.9174375,217,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,106.62,4,11,21,4,43,1.9,25,white,yellow,yellow,brown_grey,brown_grey
+mctm045,Muscat,23.2800625,57.9174375,218,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,119.24,4,12,22,4,45,2.2,27,white,yellow,yellow,brown_grey,brown_grey
+mctm046,Muscat,23.2800625,57.9174375,219,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,126.73,4,12,20,4,44.5,2.1,26.5,white,yellow,yellow,brown_grey,brown_grey
+mctm047,Muscat,23.5594375,58.4134375,220,1/9/24,Bousher,110,7HMWHC57+Q9,Shoot,Male,181.87,4,12,21,4,45,2,27,white,yellow,yellow,brown_grey,brown_grey
+mctm048,Muscat,23.5594375,58.4134375,221,1/9/24,Bousher,110,7HMWHC57+Q9,Shoot,Male,134.16,4,12,20,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm049,Muscat,23.5594375,58.4134375,222,1/9/24,Bousher,110,7HMWHC57+Q9,Shoot,Male,94.72,4,10.7,20,3.5,44,1.9,25,white,yellow,yellow,brown_grey,brown_grey
+mctm050,Muscat,23.5724375,58.6121875,223,1/9/24,Muscat,23,7HMWHJC6+XVF,Shoot,Female,115.3,4,12,20,4,42.5,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm054,Muscat,23.5591875,58.4279375,227,1/9/24,Amerat,440,7HMWHC5H+M5F,Shoot,Male,99.41,4,10.5,20.5,3.5,45,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm063,Muscat,23.6205625,58.5670625,235,1/9/24,Matrah,22,7HMWJHC8+6RG,Shoot,Male,116.14,4,11.5,19,4,43,2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm064,Muscat,23.6205625,58.5670625,236,1/9/24,Matrah,22,7HMWJHC8+6RG,Shoot,Male,113.35,4,11,21,3.5,45,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm065,Muscat,23.6205625,58.5670625,237,1/9/24,Matrah,22,7HMWJHC8+6RG,Shoot,Female,127.3,4,12,19,4,42.5,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm055,Muscat,23.5591875,58.4279375,228,1/9/24,Amerat,440,7HMWHC5H+M5F,Shoot,Male,112.05,4,12,20.5,3.5,44,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm056,Muscat,23.5591875,58.4279375,229,1/9/24,Bousher,440,7HMWHC5H+M5F,Shoot,Male,101,4,10,19,4,42,2.2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm057,Muscat,23.5591875,58.4279375,230,1/9/24,Amerat,440,7HMWHC5H+M5F,Shoot,Male,123.25,4,11.5,21,4,43,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+mctm058,Muscat,23.5591875,58.4279375,231,1/9/24,Amerat,440,7HMWHC5H+M5F,Shoot,Female,104.48,4,12,20,4,43,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm059,Muscat,23.5591875,58.4279375,232,1/9/24,Amerat,440,7HMWHC5H+M5F,Shoot,Female,99.85,4,12,19,4,42,2,24,white,yellow,yellow,brown_grey,brown_grey
+mctm060,Muscat,23.5591875,58.4279375,233,1/9/24,Amerat,440,7HMWHC5H+M5F,Shoot,Male,111.63,4,12.5,21,4,46,2.2,26.5,white,yellow,yellow,brown_grey,brown_grey
+mctm062,Muscat,23.6205625,58.5670625,234,1/9/24,Matrah,22,7HMWJHC8+6RG,Shoot,Female,117,4,11,20.5,3.5,44.5,2,26.5,white,yellow,yellow,brown_grey,brown_grey
+mctm066,Muscat,23.6205625,58.5670625,238,1/9/24,Amerat,22,7HMWJHC8+6RG,Shoot,Female,95.88,4,11,19,4,41,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm075,Muscat,23.5671875,58.6155625,247,1/22/24,Muscat,8,7HMWHJ88+V6,Shoot,Male,126.76,3,13,22,4,45,2.3,26,white,yellow,yellow,brown_grey,brown_grey
+mctm076,Muscat,23.5671875,58.6155625,248,1/22/24,Muscat,8,7HMWHJ88+V6,Shoot,Male,109.83,4,10,21.5,4,44,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+mctm077,Muscat,23.5671875,58.6155625,249,1/22/24,Muscat,8,7HMWHJ88+V6,Shoot,Female,130.46,4,12,22,4,44,2.1,25.5,white,yellow,yellow,brown_grey,brown_grey
+mctm067,Muscat,23.6205625,58.5670625,239,1/9/24,Matrah,22,7HMWJHC8+6RG,Shoot,Male,122.66,4,12,22,4,46.5,2,27,white,yellow,yellow,brown_grey,brown_grey
+mctm068,Muscat,23.6205625,58.5670625,240,1/9/24,Matrah,22,7HMWJHC8+6RG,Shoot,Male,114.85,4,11,19,4,42.5,2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm069,Muscat,23.6205625,58.5670625,241,1/9/24,Matrah,22,7HMWJHC8+6RG,Shoot,Female,117.69,4,12,21,4,44,2,25.5,white,yellow,yellow,brown_grey,brown_grey
+mctm070,Muscat,23.6205625,58.5670625,242,1/9/24,Matrah,22,7HMWJHC8+6RG,Shoot,Male,117.36,4,11,19.5,4,44,2.1,26.5,white,yellow,yellow,brown_grey,brown_grey
+mctm071,Muscat,23.6205625,58.5670625,243,1/9/24,Matrah,22,7HMWJHC8+6RG,Shoot,Male,122.19,4,12,21,4,45.5,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+mctm072,Muscat,23.6205625,58.5670625,244,1/9/24,Matrah,22,7HMWJHC8+6RG,Shoot,Female,98.56,4,11,20,4,42,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm073,Muscat,23.6205625,58.5670625,245,1/9/24,Matrah,22,7HMWJHC8+6RG,Shoot,Female,132.26,4,12,22.2,4,47,2,27,white,yellow,yellow,brown_grey,brown_grey
+mctm074,Muscat,23.5671875,58.6155625,246,1/22/24,Muscat,8,7HMWHJ88+V6,Shoot,Female,101.02,4,11,21,4,43.5,2,24,white,yellow,yellow,brown_grey,brown_grey
+mctm079,Muscat,23.5671875,58.6155625,250,1/22/24,Muscat,8,7HMWHJ88+V6,Shoot,Female,126.21,4,12,22,4,46,2.4,26,white,yellow,yellow,brown_grey,brown_grey
+mctm095,Muscat,23.5724375,58.6121875,307,1/22/24,Muscat,10,7HMWHJC6+XVF,Shoot,Female,99.57,4,11.5,21.5,4,43,2,24.5,white,yellow,yellow,brown_grey,brown_grey
+mctm098,Muscat,23.6966875,58.1534375,258,1/22/24,Seeb,4,7HMWM5W3+M9F,Shoot,Female,111.6,4,11,21,4,43,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm100,Muscat,23.6966875,58.1534375,259,1/22/24,Seeb,4,7HMWM5W3+M9F,Shoot,Female,99.38,4,10.5,22,4,42,2.1,25.5,white,yellow,yellow,brown_grey,brown_grey
+mctm081,Muscat,23.6966875,58.1534375,254,1/22/24,Seeb,4,7HMWM5W3+M9F,Shoot,Female,95.44,4,10,21,4,32.5,2.1,24.5,white,yellow,yellow,brown_grey,brown_grey
+mctm082,Muscat,23.5671875,58.6155625,251,1/22/24,Muscat,8,7HMWHJ88+V6,Shoot,Female,111.72,4,12,20.5,4,43.5,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm087,Muscat,23.5724375,58.6121875,304,1/22/24,Muscat,10,7HMWHJC6+XVF,Shoot,Male,136.3,4,12,22,4,46,2,26.5,white,yellow,yellow,brown_grey,brown_grey
+mctm088,Muscat,23.6966875,58.1534375,255,1/22/24,Seeb,4,7HMWM5W3+M9F,Shoot,,126.82,4,12,22,4,45,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm089,Muscat,23.5724375,58.6121875,305,1/22/24,Muscat,10,7HMWHJC6+XVF,Shoot,Female,105.01,4,12,21,4,42,2,25,white,yellow,yellow,brown_grey,brown_grey
+mctm090,Muscat,23.6966875,58.1534375,256,1/22/24,Seeb,4,7HMWM5W3+M9F,Shoot,Male,116.3,4,11.5,22,,44.5,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm092,Muscat,23.5724375,58.6121875,306,1/22/24,Muscat,10,7HMWHJC6+XVF,Shoot,Female,98.96,4,12,20.5,4,43,2.2,24,white,yellow,yellow,brown_grey,brown_grey
+mctm093,Muscat,23.6966875,58.1534375,257,1/22/24,Seeb,4,7HMWM5W3+M9F,Shoot,Female,106.44,4,12,21,4,43,2.1,25,white,yellow,yellow,brown_grey,brown_grey
+mctm101,Muscat,23.6966875,58.1534375,260,1/22/24,Seeb,4,7HMWM5W3+M9F,Shoot,Male,125.71,4,13,22,4,44,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+NBM44,North Batinah,24.3783125,56.7399375,86,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Male,117.42,4,11.5,20.2,4,42,2.2,27,white,yellow,yellow,brown_grey,brown_grey
+NBM45,North Batinah,24.3783125,56.7399375,87,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Male,123.4,4,12,21,4,43,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+mctm102,Muscat,23.5724375,58.6121875,308,1/22/24,Muscat,10,7HMWHJC6+XVF,Shoot,Female,102.87,4,11,20.5,4,43,2,24.5,white,yellow,yellow,brown_grey,brown_grey
+mctm103,Muscat,23.5724375,58.6121875,309,1/22/24,Muscat,10,7HMWHJC6+XVF,Shoot,Male,89.87,4,12,20,4,41,2,23,white,yellow,yellow,brown_grey,brown_grey
+NBM38,North Batinah,24.3783125,56.7399375,80,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Female,101.22,3.8,11.5,20,3.8,41,1.8,25.5,white,yellow,yellow,brown_grey,brown_grey
+NBM39,North Batinah,24.3783125,56.7399375,82,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Male,99.37,4,11,21,4,43,2.2,25,white,yellow,yellow,brown_grey,brown_grey
+NBM40,North Batinah,24.3783125,56.7399375,81,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Male,115.24,4,12.8,20,4,42,2.2,28,white,yellow,yellow,brown_grey,brown_grey
+NBM41,North Batinah,24.3783125,56.7399375,83,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Male,115.58,4,13,22.1,4,45,2,26,white,yellow,yellow,brown_grey,brown_grey
+NBM42,North Batinah,24.3783125,56.7399375,84,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Female,101.47,4,11,20,4,41,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+NBM43,North Batinah,24.3783125,56.7399375,85,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Male,112.02,4,11,21,4,44,2.2,26.5,white,yellow,yellow,brown_grey,brown_grey
+NBM047,North Batinah,24.3783125,56.7399375,89,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Male,84.43,4,11,19,4,39.5,2,23.5,white,yellow,yellow,brown_grey,brown_grey
+NBM066,North Batinah,24.5620625,56.5744375,98,12/27/23,Liwa,1,7HPRHH6F+RQG,Shoot,Female,131.22,4,12.5,21.5,4,43,2.2,26.5,white,yellow,yellow,brown_grey,brown_grey
+NBM0068,North Batinah,24.5620625,56.5744375,99,12/27/23,Liwa,1,7HPRHH6F+RQG,Shoot,Male,133.53,4,12.5,22,4,44,2.5,26.5,white,yellow,yellow,brown_grey,brown_grey
+NBM48,North Batinah,24.3783125,56.7399375,90,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Male,105.42,4,11,19,4,40,2,23.5,white,yellow,yellow,brown_grey,brown_grey
+NBM050,North Batinah,24.3783125,56.7399375,92,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Female,116.29,4,12,21.5,4,42.5,2,24.5,white,yellow,yellow,brown_grey,brown_grey
+NBM051,North Batinah,24.3783125,56.7399375,93,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Female,111.5,4,12.2,21.5,4,43,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+NBM052,North Batinah,24.3783125,56.7399375,94,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Male,115.24,4,12,21,4,42.5,2.2,27,white,yellow,yellow,brown_grey,brown_grey
+NBM058,North Batinah,24.5620625,56.5744375,95,12/27/23,Liwa,1,7HPRHH6F+RQG,Shoot,Female,120.52,4,12,21,4,43,2,26,white,yellow,yellow,brown_grey,brown_grey
+NBM062,North Batinah,24.5620625,56.5744375,96,12/27/23,Liwa,1,7HPRHH6F+RQG,Shoot,Female,123.93,4,13,20,4,43,2,25.5,white,yellow,yellow,brown_grey,brown_grey
+NMB065,North Batinah,24.5620625,56.5744375,97,12/27/23,Liwa,1,7HPRHH6F+RQG,Shoot,Female,112.31,4,11.5,21,4,44,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+NBM073,North Batinah,24.5620625,56.5744375,104,12/27/23,Liwa,1,7HPRHH6F+RQG,Shoot,Male,107.13,4,12,20,4,41,2,25.5,white,yellow,yellow,brown_grey,brown_grey
+NBM075,North Batinah,24.7464375,56.4716875,106,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Female,90.82,4,11.5,19,3.5,40,2.1,25,white,yellow,orange,brown_grey,brown_grey
+NBM076,North Batinah,24.7464375,56.4716875,107,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Female,123.15,4,12.5,21,4,42.5,2.2,26,white,yellow,orange,brown_grey,brown_grey
+NBM077,North Batinah,24.7464375,56.4716875,108,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Male,115.72,4,12,22,4,44,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+NBM078,North Batinah,24.7464375,56.4716875,109,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Male,118.71,4,13,21,4,43,2.1,26.5,white,yellow,yellow,brown_grey,brown_grey
+NBM085,North Batinah,24.7464375,56.4716875,116,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Female,100.31,4,12,20.5,4,41.5,2.1,25.5,white,yellow,yellow,brown_grey,brown_grey
+NBM086,North Batinah,24.7464375,56.4716875,117,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Male,100.96,4,12,20,4,41,2,25,white,yellow,yellow,brown_grey,brown_grey
+NBM087,North Batinah,24.7464375,56.4716875,118,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Female,102.6,4,12,20.2,4,42,2,24.5,white,yellow,yellow,brown_grey,brown_grey
+NBM088,North Batinah,24.7464375,56.4716875,119,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Male,106.06,4,12,22,4,45,2,25.5,white,yellow,yellow,brown_grey,brown_grey
+NBM089,North Batinah,24.7464375,56.4716875,120,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Male,116.81,4,12.5,22,4,44.5,2.2,26.5,white,yellow,yellow,brown_grey,brown_grey
+NBM097,North Batinah,24.3783125,56.7399375,128,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Male,101.93,4,11,19,4,41,2.1,25,white,yellow,yellow,brown_grey,brown_grey
+NBM098,North Batinah,24.3783125,56.7399375,129,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Male,125.14,4,14,22,4,45.5,2,26,white,yellow,yellow,brown_grey,brown_grey
+NBM099,North Batinah,24.3783125,56.7399375,130,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Female,131.26,4,13,21,4,44,2.6,26,white,yellow,yellow,brown_grey,brown_grey
+NBM100,North Batinah,24.3783125,56.7399375,131,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Male,116.49,4,12,20,4,44,2.2,27,white,yellow,yellow,brown_grey,brown_grey
+NBM101,North Batinah,24.3783125,56.7399375,132,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Male,139.25,4,13,21,4,41,2.2,26.5,white,yellow,orange,brown_grey,brown_grey
+NBM102,North Batinah,24.3783125,56.7399375,133,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Female,109.46,4,12,20,4,42,2,25,white,yellow,yellow,brown_grey,brown_grey
+SAHM013,North Batinah,24.1661875,56.8946875,22,12/7/23,Saham,16,7HPR5V8V+FVF,Shoot,Male,115.19,4,13.2,19,4,41.7,2,27.5,black,yellow,yellow,brown_grey,brown_grey
+mctm017,Muscat,23.2800625,57.9174375,190,1/4/24,Quriyat,33,7HMV7WJ8+2XG,Shoot,Male,116.57,4,12,21,4,43,2,26.5,white,yellow,yellow,brown_grey,brown_grey
+NBM046,North Batinah,24.3783125,56.7399375,88,12/27/23,Sohar,4,7HPR9PHQ+8X,Shoot,Male,117.36,4,12,21,4,43,2,26,white,yellow,yellow,brown_grey,brown_grey
+NBM069,North Batinah,24.5620625,56.5744375,100,12/27/23,Liwa,1,7HPRHH6F+RQG,Shoot,Female,100.51,4,12,20,4,41,2,25,white,yellow,yellow,brown_grey,brown_grey
+NBM072,North Batinah,24.5620625,56.5744375,103,12/27/23,Liwa,1,7HPRHH6F+RQG,Shoot,Male,130.7,4,13,21,4,42,2.1,25.5,white,yellow,yellow,brown_grey,brown_grey
+NBM079,North Batinah,24.7464375,56.4716875,110,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Female,112,4,11,20.5,4,43,2.2,25.5,white,yellow,yellow,brown_grey,brown_grey
+NBM080,North Batinah,24.7464375,56.4716875,111,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Female,89.52,4,11,20,4,41,2,25,white,yellow,yellow,brown_grey,brown_grey
+NBM080/81,North Batinah,24.7464375,56.4716875,112,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Male,109.93,4,12,21,4,45,2.2,26,white,yellow,orange,brown_grey,brown_grey
+NBM082,North Batinah,24.7464375,56.4716875,113,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Male,115.62,4,12,20,4,43,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+NBM083,North Batinah,24.7464375,56.4716875,114,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Male,119.03,4,12.5,22,4,46,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+NBM084,North Batinah,24.7464375,56.4716875,115,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Male,123.04,4,13,20,4,43,2,26,white,yellow,yellow,brown_grey,brown_grey
+NBM091,North Batinah,24.7464375,56.4716875,122,1/3/24,Shinas,3,7HPRPFWC+HMF,Shoot,Female,101.65,4,12,20,4,41,2,24.5,white,yellow,yellow,brown_grey,white
+NBM092,North Batinah,24.3783125,56.7399375,123,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Female,95.42,4,12,19,4,41,2,25,white,yellow,yellow,brown_grey,brown
+NBM093,North Batinah,24.3783125,56.7399375,124,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Female,117.57,4,12,21,4,42,2,26,white,yellow,yellow,brown_grey,brown_grey
+NBM094,North Batinah,24.3783125,56.7399375,125,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Male,123.17,4,12.5,22,4,44,2,28,white,yellow,orange,brown_grey,brown_grey
+NBM095,North Batinah,24.3783125,56.7399375,126,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Unknown,122.4,4,12,21.5,4,44,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+NBM096,North Batinah,24.3783125,56.7399375,127,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Male,122.43,4,13,20,4,44,2,27,white,yellow,yellow,brown_grey,brown_grey
+NBM103,North Batinah,24.3783125,56.7399375,134,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Female,110.37,4,11,20,4,41,2.1,25,white,yellow,yellow,brown_grey,brown_grey
+NBM105,North Batinah,24.3783125,56.7399375,136,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Female,106.91,4,12,20,4,43,2.1,25,white,yellow,yellow,brown_grey,brown_grey
+NBM106,North Batinah,24.3783125,56.7399375,137,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Male,109.45,4,12,20,4,42,2.3,26,white,yellow,orange,brown_grey,brown_grey
+NBM107,North Batinah,24.3783125,56.7399375,138,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Female,110.73,4,12,19,4,41,2.1,24.5,white,yellow,yellow,brown_grey,brown_grey
+NBM108,North Batinah,24.3783125,56.7399375,139,1/4/24,Sohar,4,7HPR9PHQ+8X,Shoot,Female,110.83,4,13,20,4,44,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+sllm001,Dhofar,18.0106875,54.1739375,261,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Male,124.92,4,12,21.5,4,45,2,26,white,yellow,yellow,brown_grey,brown_grey
+sllm010,Dhofar,18.0106875,54.1739375,270,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Male,102.3,4,11,19.5,4,40.5,2,23.5,white,yellow,yellow,brown_grey,brown_grey
+sllm011,Dhofar,18.0106875,54.1739375,271,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Female,98.97,4,11.5,21,3.5,42.5,2,24,white,yellow,yellow,brown_grey,brown_grey
+sllm002,Dhofar,18.0106875,54.1739375,262,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Male,107.94,4,12,22,3.5,45,2.2,26.5,white,yellow,yellow,brown_grey,brown_grey
+sllm003,Dhofar,18.0106875,54.1739375,263,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Male,104.13,4,12,20.5,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
+sllm004,Dhofar,18.0106875,54.1739375,264,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Male,118.05,4,12,22,4,45,2,26.5,white,yellow,yellow,brown_grey,brown_grey
+sllm005,Dhofar,18.0106875,54.1739375,265,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Female,102.65,4,11.5,21,4,43,2,26,white,yellow,yellow,brown_grey,brown_grey
+sllm006,Dhofar,18.0106875,54.1739375,266,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Female,115.01,4,12,20,4,42,2,26,white,yellow,yellow,brown_grey,brown_grey
+sllm007,Dhofar,18.0106875,54.1739375,267,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Female,95.4,4,11,20,4,42,2,24.5,white,yellow,yellow,brown_grey,brown_grey
+sllm008,Dhofar,18.0106875,54.1739375,268,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Male,131.5,4,14,23.5,4,47,2.1,28,white,yellow,yellow,brown_grey,brown_grey
+sllm009,Dhofar,18.0106875,54.1739375,269,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Female,99.08,4,11,20.5,3.5,42.5,2,24.5,white,yellow,yellow,brown_grey,brown_grey
+sllm013,Dhofar,18.0106875,54.1739375,273,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Female,123,4,11,21.5,4,44,2,25,white,yellow,yellow,brown_grey,brown_grey
+sllm022,Dhofar,18.0106875,54.1739375,282,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Female,94.57,4,11,20.5,4,43,2,24.5,white,yellow,yellow,brown_grey,brown_grey
+sllm023,Dhofar,18.0106875,54.1739375,335,3/8/24,Salalah,25,7HCP256F+7H,Shoot,male,117.57,4,12,20,4,45,2,26,white,yellow,yellow,brown_grey,brown_grey
+sllm024,Dhofar,18.0106875,54.1739375,336,3/8/24,Salalah,25,7HCP256F+7H,Shoot,female,118.04,4,12.5,22,4,45,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+sllm014,Dhofar,18.0106875,54.1739375,274,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Female,95.95,4,11,20,4,42,2,25.5,white,yellow,yellow,brown_grey,brown_grey
+sllm015,Dhofar,18.0106875,54.1739375,275,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Female,116.91,4,12,20,4,43,2,26,white,yellow,yellow,brown_grey,brown_grey
+sllm016,Dhofar,18.0106875,54.1739375,276,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Female,117.85,4,12,20,4,43,2,25,white,yellow,yellow,brown_grey,brown_grey
+sllm017,Dhofar,18.0106875,54.1739375,277,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Male,123.11,4,12,21.5,4,44,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+sllm018,Dhofar,18.0106875,54.1739375,278,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Male,110.22,4,11.5,22,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
+sllm019,Dhofar,18.0106875,54.1739375,279,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Male,143.77,4,14,22.5,4,46,2,27,white,yellow,yellow,brown_grey,brown_grey
+sllm020,Dhofar,18.0106875,54.1739375,280,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Male,123,4,12,21,4,44,2.2,26.5,white,yellow,yellow,brown_grey,brown_grey
+sllm021,Dhofar,18.0106875,54.1739375,281,2/17/24,Salalah,26,7HCP256F+7H,Shoot,Male,120.26,4,11,22.5,3,46,2,26.5,white,yellow,yellow,brown_grey,brown_grey
+ssn080,South Sharqiyah,21.3783125,58.7399375,148,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,121.12,4,12,21.5,4,45,2,27,white,yellow,yellow,brown_grey,brown_grey
+ssn081,South Sharqiyah,21.3783125,58.7399375,149,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,111.69,4,12,20,4,44,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+ssn082,South Sharqiyah,21.3783125,58.7399375,150,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,108.51,4,13,19.5,4,41.5,2,23.5,white,yellow,yellow,brown_grey,brown_grey
+ssn71,South Sharqiyah,21.3783125,58.7399375,140,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,108.35,4,12,19.5,4,41,2.3,25.5,white,yellow,yellow,brown_grey,brown_grey
+ssn072,South Sharqiyah,21.3783125,58.7399375,141,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,106.73,4,13,19.5,4,41,2.1,24,white,yellow,yellow,brown_grey,brown_grey
+Ssn073,South Sharqiyah,21.3783125,58.7399375,142,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,111.82,4,12.5,19,4,41,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+ssn074,South Sharqiyah,21.3783125,58.7399375,143,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,113.93,4,13,19,4,41,1.9,24,white,yellow,yellow,brown_grey,brown_grey
+ssn075,South Sharqiyah,21.3783125,58.7399375,144,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,105.36,4,12.5,19,4,41,2,24,white,yellow,yellow,brown_grey,brown_grey
+ssn076,South Sharqiyah,21.3783125,58.7399375,145,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,104.45,4,13,19,4,41,2.2,24,white,yellow,yellow,brown_grey,brown_grey
+ssn076/77,South Sharqiyah,21.3783125,58.7399375,146,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,97.87,4,13,20,4,42.5,2,26,white,yellow,yellow,brown_grey,brown_grey
+ssn079,South Sharqiyah,21.3783125,58.7399375,147,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,102.75,4,12.5,19,4,42,2,23,white,yellow,yellow,brown_grey,brown_grey
+ssn083,South Sharqiyah,21.3783125,58.7399375,151,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,105.53,4,12,19,4,41,2,24,white,yellow,yellow,brown_grey,brown_grey
+ssn093,South Sharqiyah,21.3783125,58.7399375,161,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,99.3,4,11,20,4,42.5,2,24,white,yellow,yellow,brown_grey,brown_grey
+ssn094,South Sharqiyah,21.3783125,58.7399375,162,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,103.65,4,12,21,4,43,2.2,25.5,white,yellow,yellow,brown_grey,brown_grey
+ssn084,South Sharqiyah,21.3783125,58.7399375,152,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,104.66,4,12,20,4,42,2,25,white,yellow,yellow,brown_grey,brown_grey
+ssn085,South Sharqiyah,21.3783125,58.7399375,153,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,98.34,4,12,18.8,4,39,2,23.5,white,yellow,yellow,brown_grey,brown_grey
+ssn086,South Sharqiyah,21.3783125,58.7399375,154,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,113.16,4,13.5,19,4,41,2,25,white,yellow,yellow,brown_grey,brown_grey
+ssn087,South Sharqiyah,21.3783125,58.7399375,155,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,129.49,4,13,21,4,44,2.2,26.5,white,yellow,yellow,brown_grey,brown_grey
+ssn088,South Sharqiyah,21.3783125,58.7399375,156,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,90.79,4,12,19,4,40,2.2,24.5,white,yellow,yellow,brown_grey,brown_grey
+ssn089,South Sharqiyah,21.3783125,58.7399375,157,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,107.86,4,12,21,4,43,2,25,white,yellow,yellow,brown_grey,brown_grey
+ssn090,South Sharqiyah,21.3783125,58.7399375,158,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,106.8,4,12,20,4,44,2,25,white,yellow,yellow,brown_grey,brown_grey
+ssn091,South Sharqiyah,21.3783125,58.7399375,159,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,109.76,4,11.5,20.5,4,43,2.2,25,white,yellow,yellow,brown_grey,brown_grey
+ssn095,South Sharqiyah,21.3783125,58.7399375,163,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,127.13,4,12,21.5,4,44,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+ssn113,South Sharqiyah,21.3783125,58.7399375,172,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,126,4,13,20.5,4,43,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+ssn114,South Sharqiyah,21.3783125,58.7399375,173,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,130.59,4,12,21,4,45,2.1,27,white,yellow,yellow,brown_grey,brown_grey
+ssn115,South Sharqiyah,21.3783125,58.7399375,174,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,136.28,4,12,21,4,44.5,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+ssn096,South Sharqiyah,21.3783125,58.7399375,164,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,121.31,4,12,20,4,43.5,2,26,white,yellow,yellow,brown_grey,brown_grey
+ssn097,South Sharqiyah,21.3783125,58.7399375,165,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,117.86,4,12,20,4,42,2.2,25,white,yellow,yellow,brown_grey,brown_grey
+ssn098,South Sharqiyah,21.3783125,58.7399375,166,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,121.17,4,12,20,4,42.5,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+ssn108,South Sharqiyah,21.3783125,58.7399375,167,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,98.59,4,11,19.5,4,42,2,24,white,yellow,yellow,brown_grey,brown_grey
+ssn109,South Sharqiyah,21.3783125,58.7399375,168,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,105.72,4,12,19,4,41,2,26,white,yellow,yellow,brown_grey,brown_grey
+ssn110,South Sharqiyah,21.3783125,58.7399375,169,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,106.01,4,12,20,4,43,2.1,23.5,white,yellow,yellow,brown_grey,brown_grey
+ssn111,South Sharqiyah,21.3783125,58.7399375,170,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,119.54,4,12,20,4,42.5,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+ssn112,South Sharqiyah,21.3783125,58.7399375,171,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,113.38,4,11.5,19.5,3.5,40,2,25,white,yellow,yellow,brown_grey,brown_grey
+ssn122,South Sharqiyah,21.3783125,58.7399375,175,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,116.07,4,11,20,4,44,2.1,25.5,white,yellow,yellow,brown_grey,brown_grey
+thmm002,Dhofar,18.6170625,54.0468125,311,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Male,120.47,4,13,20,3.5,42,2,25,white,yellow,yellow,brown_grey,brown_grey
+thmm003,Dhofar,18.6170625,54.0468125,312,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Female,103.82,4,12,20,4,41.5,1.9,25,white,yellow,yellow,brown_grey,brown_grey
+thmm004,Dhofar,18.6170625,54.0468125,313,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Male,110.5,4,12.5,21,4,43,2,24.5,white,yellow,yellow,brown_grey,brown_grey
+ssn124,South Sharqiyah,21.3783125,58.7399375,176,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,109.04,4,11,20.5,4,41.5,2,25,white,yellow,yellow,brown_grey,brown_grey
+ssn125,South Sharqiyah,21.3783125,58.7399375,177,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,103.57,4,12,19.5,3.5,42,1.9,23,white,yellow,yellow,brown_grey,brown_grey
+ssn126,South Sharqiyah,21.3783125,58.7399375,178,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,124.88,4,12,21,4,45,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+ssn127,South Sharqiyah,21.3783125,58.7399375,179,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,106.7,4,11,21.5,4,44,2,25.5,white,yellow,yellow,brown_grey,brown_grey
+ssn128,South Sharqiyah,21.3783125,58.7399375,180,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,121.66,4,11,21,4,45,2,26,white,yellow,yellow,brown_grey,brown_grey
+ssn129,South Sharqiyah,21.3783125,58.7399375,181,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Female,111.41,4,12,19.5,3.5,41.5,2,25,white,yellow,yellow,brown_grey,brown_grey
+ssn130,South Sharqiyah,21.3783125,58.7399375,182,1/6/24,Sur,9,7HHW9PHQ+8X,Shoot,Male,116.63,4,11.5,20,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
+thmm001,Dhofar,18.6170625,54.0468125,310,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Female,114.94,4,12.5,20,4,41,2,24,white,yellow,yellow,brown_grey,brown_grey
+thmm005,Dhofar,18.6170625,54.0468125,314,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Male,160.52,4,14,23,4,45,2,26,white,yellow,yellow,brown_grey,brown_grey
+thmm014,Dhofar,18.6170625,54.0468125,323,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Male,121.7,4,13,22,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
+thmm015,Dhofar,18.6170625,54.0468125,324,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Male,134.5,4,12.5,21,4,44.5,2,26,white,yellow,yellow,brown_grey,brown_grey
+thmm006,Dhofar,18.6170625,54.0468125,315,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Female,131.7,4,13,30.5,4,43,2,25.5,white,yellow,yellow,brown_grey,brown_grey
+thmm007,Dhofar,18.6170625,54.0468125,316,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Male,123.95,4,12,23,4,45.5,2,26.5,white,yellow,yellow,brown_grey,brown_grey
+thmm008,Dhofar,18.6170625,54.0468125,317,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Female,155.35,4,13.5,21,4,43,2.1,25,white,yellow,yellow,brown_grey,brown_grey
+thmm009,Dhofar,18.6170625,54.0468125,318,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Male,108.38,4,12,21,4,42,2,24.5,white,yellow,yellow,brown_grey,brown_grey
+thmm010,Dhofar,18.6170625,54.0468125,319,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Male,123.9,4,13,22,4,44,2,25,white,yellow,yellow,brown_grey,brown_grey
+thmm011,Dhofar,18.6170625,54.0468125,320,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Female,114.93,4,13,20.5,4,41.5,2,24.5,white,yellow,yellow,brown_grey,brown_grey
+thmm012,Dhofar,18.6170625,54.0468125,321,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Unknown,117.29,4,11.5,21,4,43,2.2,26,white,yellow,yellow,brown_grey,brown_grey
+thmm013,Dhofar,18.6170625,54.0468125,322,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Male,138.55,4,13,21,4,44,2,27,white,yellow,yellow,brown_grey,brown_grey
+thmm017,Dhofar,18.6170625,54.0468125,326,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Female,112.9,4,11,21,4,42,2.2,25,white,yellow,yellow,brown_grey,brown_grey
+NBM070,North Batinah,24.5620625,56.5744375,101,12/27/23,Liwa,1,7HPRHH6F+RQG,Shoot,Male,114.14,4,12,22,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
+NBM071,North Batinah,24.5620625,56.5744375,102,12/27/23,Liwa,1,7HPRHH6F+RQG,Shoot,Female,115.13,4,12,19.5,4,41.5,2,25,white,yellow,yellow,brown_grey,brown_grey
+thmm018,Dhofar,18.6170625,54.0468125,327,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Male,155,4,11,22,4,45,2,27,white,yellow,yellow,brown_grey,brown_grey
+thmm019,Dhofar,18.6170625,54.0468125,328,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Female,122.86,4,12,21,4,43.5,2.1,26,white,yellow,yellow,brown_grey,brown_grey
+thmm020,Dhofar,18.6170625,54.0468125,329,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Unknown,97.6,4,12,18,4,39,2,24,white,yellow,yellow,brown_grey,brown_grey
+thmm021,Dhofar,18.6170625,54.0468125,330,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Female,119.7,4,12,21,4,41.8,2,25,white,yellow,yellow,brown_grey,brown_grey
+thmm022,Dhofar,18.6170625,54.0468125,331,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Male,143,4,13,21,4,45,2,25.5,white,yellow,yellow,brown_grey,brown_grey
+thmm023,Dhofar,18.6170625,54.0468125,332,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Male,164,4,13,21,4,45,2,27,white,yellow,yellow,brown_grey,brown_grey
+thmm024,Dhofar,18.6170625,54.0468125,333,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Female,124,4,12,22,4,43,2,26,white,yellow,yellow,brown_grey,brown_grey
+thmm025,Dhofar,18.6170625,54.0468125,334,2/22/24,Thumrait,450,7HCPJ28W+RP,Shoot,Female,121.88,4,12,21,4,44,2,26,white,yellow,yellow,brown_grey,brown_grey
