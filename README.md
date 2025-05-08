@@ -98,4 +98,4 @@ Contributions are welcome! Please open an issue or submit a pull request for bug
 
 ## License
 
-This project is licensed under the MIT License. See [license.txt](license.txt) for details.
+This project is licensed under the MIT License. See [LICENSE.txt](LICENSE.txt) for details.
