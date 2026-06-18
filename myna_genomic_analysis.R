@@ -23,7 +23,7 @@ library(dartRverse)
 # 2. Read SNP dataset and metadata
 # ──────────────────────────────────────────────────────────────────────────────
 gl_data <- gl.read.dart(
-  infile            = "Report_DImy24-9735_SNP_mapping_1.csv",
+  filename            = "Report_DImy24-9735_SNP_mapping_1.csv",
   ind.metafile      = "metadata_myna.csv"
 )
 
@@ -37,7 +37,7 @@ gl_data$other$loc.metrics$TrimmedSequence <-
 # 4. Map loci to reference genome & extract chromosome/position
 # ──────────────────────────────────────────────────────────────────────────────
 gl_data <- gl.blast(
-  obj         = gl_data,
+  x         = gl_data,
   ref_genome  = "GCA_037013685.1_AcTris_vAus2.0_genomic.fna"
 )
 # Store blast‑derived scaffold and start positions
@@ -49,7 +49,7 @@ gl_data$position   <- gl_data$other$loc.metrics$sstart
 #    5.1 Remove individuals with ≤ 60% loci scored
 # ──────────────────────────────────────────────────────────────────────────────
 gl_qc1 <- gl.filter.callrate(
-  obj       = gl_data,
+  x       = gl_data,
   threshold = 0.6,
   method    = "ind"
 )
@@ -63,7 +63,7 @@ gl.report.callrate(gl_qc1, method = "ind")
 #    6.3 Remove loci with low reproducibility
 # ──────────────────────────────────────────────────────────────────────────────
 gl_qc2 <- gl.filter.callrate(
-  obj       = gl_qc1,
+  x       = gl_qc1,
   threshold = 0.9,
   method    = "loc"
 )
@@ -77,7 +77,7 @@ gl.report.callrate(gl_qc2, method = "loc")
 # 7. Summaries of genetic diversity and F‑statistics
 # ──────────────────────────────────────────────────────────────────────────────
 gl.report.heterozygosity(
-  obj            = gl_qc2,
+  x            = gl_qc2,
   plot.colors.pop = c("#3283FE","#FEAF16","#B00068","#1CFFCE")
 )
 gl.report.fstat(gl_qc2)

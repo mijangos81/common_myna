@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+
+# Large raw DArT SNP report extractions — keep the .zip versions instead
+Report_DImy24-9735_SNP_mapping_1.csv
+Report_DCrw24-9702_SNP_mapping_1.csv
