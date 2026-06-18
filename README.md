@@ -41,7 +41,8 @@ This repository holds the R code and DArT SNP data to reproduce the analyses in 
 ├── myna_genomic_analysis.R                   # Main analysis script
 ├── Report_DImy24-9735_SNP_mapping_1.csv.zip  # DArT SNP report (myna; script input)
 ├── Report_DCrw24-9702_SNP_mapping_1.csv.zip  # DArT SNP report (additional dataset)
-├── metadata_myna.csv                         # Sample metadata (IDs, coordinates, populations)
+├── metadata_myna.csv                         # Sample metadata (IDs, coordinates, populations, morphological traits)
+├── sequence_report.csv                       # Assembly chromosome lookup (GCA_037013685.1; used by the GWAS)
 ├── res_fast_myna.rds                         # Saved fastStructure result
 ├── common_myna.Rproj                         # RStudio project file
 ├── LICENSE.txt                               # MIT License
@@ -54,6 +55,7 @@ The reference genome is not included in the repository (see Requirements).
 
 - R (≥ 4.0)
 - The **dartRverse** suite (see Installation)
+- For the GWAS: the **GAPIT**, **CMplot** and **colorspace** R packages
 - A local NCBI BLAST+ installation, used by `gl.blast` to map loci to the reference genome
 - The common myna reference genome FASTA, `GCA_037013685.1_AcTris_vAus2.0_genomic.fna`, downloaded from NCBI (assembly GCA_037013685.1) and placed in the project folder
 
@@ -67,6 +69,10 @@ library(dartRverse)
 dartRverse_install("dartR.base",    rep = "CRAN")  # data import, filtering, BLAST, diversity, PCoA
 dartRverse_install("dartR.popgen",  rep = "CRAN")  # fastStructure, LD-Ne
 dartRverse_install("dartR.spatial", rep = "CRAN")  # spatial autocorrelation
+
+# GWAS packages: CMplot and colorspace from CRAN, GAPIT from GitHub
+install.packages(c("CMplot", "colorspace", "devtools"))
+devtools::install_github("jiabowang/GAPIT")
 ```
 
 Run `dartRverse_install("all")` to list every sub-package, or see the [dartRverse repository](https://github.com/green-striped-gecko/dartRverse) for development versions.
@@ -87,7 +93,7 @@ Open `common_myna.Rproj` in RStudio (or set the working directory to the project
 source("myna_genomic_analysis.R")
 ```
 
-The script reads `Report_DImy24-9735_SNP_mapping_1.csv` and `metadata_myna.csv`, writes the fastStructure result to `res_fast_myna.rds`, and produces figures and tables in the R session.
+The script reads `Report_DImy24-9735_SNP_mapping_1.csv`, `metadata_myna.csv` and `sequence_report.csv`. It writes summary tables (`res_het.csv`, `res_fst.csv`), figures (`het.pdf`, `grm.pdf`, `faststruc.pdf`, `pca_1_2.pdf`, `autocorr.pdf`, `ibd.pdf`), the fastStructure result (`res_fast_myna.rds`), and the per-trait GAPIT and Manhattan-plot output to the working directory.
 
 ## Analysis steps
 
@@ -95,14 +101,17 @@ The script reads `Report_DImy24-9735_SNP_mapping_1.csv` and `metadata_myna.csv`,
 
 1. Read the DArT SNP report and sample metadata (`gl.read.dart`).
 2. Map loci to the reference genome by BLAST and record chromosome and position (`gl.blast`).
-3. Filter individuals by call rate (remove those with < 60% of loci scored).
-4. Filter loci by call rate (< 90%), read depth and reproducibility.
-5. Summarise diversity and F-statistics (`gl.report.heterozygosity`, `gl.report.fstat`).
-6. Compute the genomic relatedness matrix (`gl.grm`).
-7. Estimate population structure with fastStructure, K = 1–6, 20 replicates (`gl.run.faststructure`).
-8. Run Principal Coordinates Analysis (`gl.pcoa`).
-9. Test spatial autocorrelation of allele frequencies (`gl.spatial.autoCorr`).
-10. Estimate effective population size from linkage disequilibrium (`gl.LDNe`).
+3. Remove sex-linked (Z/W) loci (`gl.drop.sexlinked`).
+4. Filter individuals by call rate (remove those with < 60% of loci scored).
+5. Filter loci by call rate (< 90%), read depth and reproducibility.
+6. Summarise diversity and F-statistics (`gl.report.heterozygosity`, `gl.report.fstat`).
+7. Compute the genomic relatedness matrix (`gl.grm`).
+8. Estimate population structure with fastSTRUCTURE, K = 1–6, 10 replicates (`gl.run.faststructure`).
+9. Run Principal Coordinates Analysis (`gl.pcoa`).
+10. Test spatial autocorrelation of allele frequencies (`gl.spatial.autoCorr`).
+11. Estimate isolation by distance (`gl.ibd`).
+12. Estimate effective population size from linkage disequilibrium (`gl.LDNe`).
+13. Run genome-wide association for the eight morphological traits (GAPIT, BLINK model, two principal components) and draw Manhattan plots (`CMplot`).
 
 ## Citation
 
