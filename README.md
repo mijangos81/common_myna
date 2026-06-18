@@ -40,7 +40,6 @@ This repository holds the R code and DArT SNP data to reproduce the analyses in 
 ```
 ├── myna_genomic_analysis.R                   # Main analysis script
 ├── Report_DImy24-9735_SNP_mapping_1.csv.zip  # DArT SNP report (myna; script input)
-├── Report_DCrw24-9702_SNP_mapping_1.csv.zip  # DArT SNP report (additional dataset)
 ├── metadata_myna.csv                         # Sample metadata (IDs, coordinates, populations, morphological traits)
 ├── sequence_report.csv                       # Assembly chromosome lookup (GCA_037013685.1; used by the GWAS)
 ├── res_fast_myna.rds                         # Saved fastStructure result
