@@ -62,7 +62,13 @@ gl_data$position   <- gl_data$other$loc.metrics$sstart
 
 # ──────────────────────────────────────────────────────────────────────────────
 # 5. Remove sex-linked (Z/W) loci
+#    gl.report.sexlinked expects the sex column coded as "F"/"M"; the metadata
+#    stores "Female"/"Male", so recode to the first initial (others to NA).
 # ──────────────────────────────────────────────────────────────────────────────
+sx <- toupper(substr(as.character(gl_data@other$ind.metrics$sex), 1, 1))
+sx[!sx %in% c("F", "M")] <- NA
+gl_data@other$ind.metrics$sex <- sx
+
 r1      <- gl.report.sexlinked(gl_data, system = "zw")
 gl_data <- gl.drop.sexlinked(gl_data, system = "zw")
 
